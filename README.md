@@ -1,2 +1,2 @@
 # hello-world
-sample helllo world amd initial repository
+sample helllo world and initial repository
