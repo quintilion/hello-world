@@ -1,2 +1,2 @@
 # hello-world
-sample helllo world and initial repository
+sample hello world and initial repository
